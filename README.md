@@ -111,8 +111,6 @@ fun_fact: "コードを書くこと自体より、動くまでの過程が好き
 
 <img src="https://raw.githubusercontent.com/mitsukun0306/mitsukun0306/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation"/>
 
-<sub>※ 表示させるには <code>.github/workflows/snake.yml</code>（後述）を追加し、Actions を一度実行してください。</sub>
-
 </div>
 
 <br/>
